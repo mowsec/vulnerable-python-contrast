@@ -1,0 +1,17 @@
+api:
+  # Configure with your API keys from your Contrast dashboard
+  url: https://eval.contrastsecurity.com/Contrast
+  api_key: XXX
+  service_key: XXX
+  user_name: XXX@XXX
+
+application:
+    # Configure a name and key for your application
+    name: VulnerableApp-Python-Demo
+    code: demo-3
+
+agent:
+  # Configure server details
+  service:
+    host: localhost
+    port: 30555
