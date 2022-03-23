@@ -3,7 +3,7 @@
 This repository is an example of how to install the Contrast Security Agent in 
 a Python Flask application.
 
-* Original vulnerable application source code taken from ::fork_and_knife:
+* Original vulnerable application source code taken from:
 [dolevf/Damn-Vulnerable-GraphQL-Application][DVGQA]
 * Only changes made are to instrument the application with 
 [Contrast Security][Contrast Home]
