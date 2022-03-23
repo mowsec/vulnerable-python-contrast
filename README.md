@@ -38,8 +38,7 @@ pip install contrast-agent
 Wrap the Flask application `app` object with the Contrast Security Agent 
 middleware component.
 
-[1]: Damn-Vulnerable-GraphQL-Application/app.py
-[:link: `Damn-Vulnerable-GraphQL-Application/app.py#9-13`:][1]
+📑: `Damn-Vulnerable-GraphQL-Application/app.py#9-13`:
 ```python
 ...
 import contrast
