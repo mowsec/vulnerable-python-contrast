@@ -1,7 +1,11 @@
-# Contrast Security - Python Flask Instrumentation
+# Secure your Python Flask Application with the Contrast Security Agent
 
 This repository is an example of how to install the Contrast Security Agent in 
 a Python Flask application.
+
+The agent runs as part of your Python application code and serves as an
+all-encompassing static code scanner, SCA tool, IAST agent and runtime
+self-protection tool. For more information, check out their [website][Contrast Home]
 
 * Original vulnerable application source code taken from:
 [dolevf/Damn-Vulnerable-GraphQL-Application][DVGQA]
